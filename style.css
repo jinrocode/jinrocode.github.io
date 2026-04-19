@@ -52,7 +52,7 @@ a:hover {
 
 .card:hover {
     border-color: #00ff88;
-    transform: translateY(-15px) scale(1.05);
+    transform: translateY(-50px) scale(1.15);
     box-shadow: 0 5px 15px rgba(0, 255, 136, 0.3);
 }
 
